@@ -9,3 +9,20 @@ This assignment implements a simplified version of Shamir's Secret Sharing algor
 
 ## Input Format
 The input is provided in JSON format, which contains the roots of a polynomial.
+
+## How to Run the Project
+
+### Prerequisites
+- Ensure you have [Node.js](https://nodejs.org/) installed on your machine.
+
+### Steps to Run
+
+1. **Clone the Repository**
+   Clone this repository to your local machine using the following command:
+   ```bash
+   git clone [<repository-url>](https://github.com/aman220/CATALOG-Assignment)
+
+   cd <your-project-directory>
+
+   node PolynomialSolver.js
+
